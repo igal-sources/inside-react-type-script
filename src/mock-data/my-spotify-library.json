@@ -1,0 +1,1818 @@
+{
+  "tracks": [
+    {
+      "artist": "Kaveret",
+      "album": "כוורת בפארק",
+      "track": "ג'אם",
+      "uri": "spotify:track:0XflXMtTaeqnhbYR3eOMMh"
+    },
+    {
+      "artist": "Gidi Gov",
+      "album": "שלל שיריו",
+      "track": "אני שוב מתאהב",
+      "uri": "spotify:track:18kMOl2dxgTkj13nr5UlGQ"
+    },
+    {
+      "artist": "Kaveret",
+      "album": "כוורת בפארק",
+      "track": "זוכר,לא זוכר",
+      "uri": "spotify:track:1V8zLoqgREHWcDId2JSBpJ"
+    },
+    {
+      "artist": "Elton John",
+      "album": "Elton 60 - Live At Madison Square Garden",
+      "track": "The Bitch Is Back - Live At Madison Square Garden",
+      "uri": "spotify:track:1t5TxhMWrurka5YpLiogsT"
+    },
+    {
+      "artist": "Billy Joel",
+      "album": "The Stranger (Legacy Edition)",
+      "track": "She's Always a Woman",
+      "uri": "spotify:track:5RgFlk1fcClZd0Y4SGYhqH"
+    },
+    {
+      "artist": "Yehuda Poliker",
+      "album": "הופעה חיה בקיסריה",
+      "track": "אלקו",
+      "uri": "spotify:track:3RWWAn0c8FJGlcHBNa0kHP"
+    },
+    {
+      "artist": "Itzhak Klepter",
+      "album": "מחזיק מעמד",
+      "track": "דמיון חופשי",
+      "uri": "spotify:track:4GMyivz5Y7Wg4DVnpDTl7N"
+    },
+    {
+      "artist": "Yehuda Poliker",
+      "album": "הופעה חיה בקיסריה",
+      "track": "הצל ואני",
+      "uri": "spotify:track:32rTnPUtGV2XvHededQ6kB"
+    },
+    {
+      "artist": "Dire Straits",
+      "album": "Brothers In Arms",
+      "track": "Money For Nothing",
+      "uri": "spotify:track:31DvHUCSioX0JD7B4kZMJ9"
+    },
+    {
+      "artist": "Kaveret",
+      "album": "כוורת בפארק",
+      "track": "נחמד",
+      "uri": "spotify:track:0tOriM0goAE6WxPXvpareu"
+    },
+    {
+      "artist": "Joe Cocker",
+      "album": "Joe Cocker Live",
+      "track": "What Are You Doing With a Fool Like Me - Studio Version",
+      "uri": "spotify:track:1ADmyvNaireK0kH2xNdVyO"
+    },
+    {
+      "artist": "Idan Amedi",
+      "album": "חלק מהזמן",
+      "track": "חלק מהזמן",
+      "uri": "spotify:track:6AuhyP1rKXVGvvrqr5UNaK"
+    },
+    {
+      "artist": "Gidi Gov",
+      "album": "שלל שיריו",
+      "track": "אחלה עולם",
+      "uri": "spotify:track:6620ZhRbNIhAHsix8P0KQB"
+    },
+    {
+      "artist": "Gidi Gov",
+      "album": "שלל שיריו",
+      "track": "איך שיר נולד",
+      "uri": "spotify:track:5q4RYpxuJIhUSmRBDVIFrG"
+    },
+    {
+      "artist": "Yehuda Poliker",
+      "album": "הופעה חיה בקיסריה",
+      "track": "ירקדו הבחורים + שותה בכפר",
+      "uri": "spotify:track:4xeOHa1WkRYtQgbVpdSnPz"
+    },
+    {
+      "artist": "Yehuda Poliker",
+      "album": "הופעה חיה בקיסריה",
+      "track": "נמס בגשם",
+      "uri": "spotify:track:7fe8LeC51rjgrQx45BM1J3"
+    },
+    {
+      "artist": "Gidi Gov",
+      "album": "שלל שיריו",
+      "track": "ציפור המכנסיים הקטנה",
+      "uri": "spotify:track:3EJtmlIKQi3KG77CT4qoS9"
+    },
+    {
+      "artist": "Kaveret",
+      "album": "כוורת בפארק",
+      "track": "מבטל דו-שיח",
+      "uri": "spotify:track:5JaQPTPkWzwkXU7Mzx3M0T"
+    },
+    {
+      "artist": "Kaveret",
+      "album": "כוורת בפארק",
+      "track": "בלעדיך",
+      "uri": "spotify:track:5fdydjSgVieBgvO1yUE0Ro"
+    },
+    {
+      "artist": "T-Slam",
+      "album": "רדיו חזק",
+      "track": "רדיו חזק",
+      "uri": "spotify:track:7nnSrs2qLmo24RWU2HJifX"
+    },
+    {
+      "artist": "Alphaville",
+      "album": "Forever Young",
+      "track": "Big in Japan - 2019 Remaster",
+      "uri": "spotify:track:7wnagOAqma4Sg6JOGjWr5R"
+    },
+    {
+      "artist": "Yehuda Poliker",
+      "album": "הופעה חיה בקיסריה",
+      "track": "משמרת לילה",
+      "uri": "spotify:track:5b5gpL4UylZnuMhm5OqiFJ"
+    },
+    {
+      "artist": "Kaveret",
+      "album": "כוורת בפארק",
+      "track": "חבר בחברת עצמי",
+      "uri": "spotify:track:0vKokBeu1tWG7LcRQgWJSR"
+    },
+    {
+      "artist": "Billy Joel",
+      "album": "Live At Shea Stadium",
+      "track": "Piano Man - Live at Shea Stadium, Queens, NY - July 2008",
+      "uri": "spotify:track:6VvWQb5mxb6xhJ2xxqWkds"
+    },
+    {
+      "artist": "Kaveret",
+      "album": "כוורת בפארק",
+      "track": "לו לו",
+      "uri": "spotify:track:0F04IUart8CIPUcyFsQ8NE"
+    },
+    {
+      "artist": "Gidi Gov",
+      "album": "שלל שיריו",
+      "track": "שטח ההפקר",
+      "uri": "spotify:track:79bR41jwN0hBqshUnrSaqr"
+    },
+    {
+      "artist": "Yehuda Poliker",
+      "album": "הופעה חיה בקיסריה",
+      "track": "יום שישי",
+      "uri": "spotify:track:4Yt6dkPzuLQRuQh5DWjZcb"
+    },
+    {
+      "artist": "Kaveret",
+      "album": "כוורת בפארק",
+      "track": "שיר המחירון",
+      "uri": "spotify:track:0efARB9lfkSagUwJcSNc8C"
+    },
+    {
+      "artist": "Yehuda Poliker",
+      "album": "הופעה חיה בקיסריה",
+      "track": "פרח",
+      "uri": "spotify:track:3uovsq9BqAtH72k2MjpF1P"
+    },
+    {
+      "artist": "Yehuda Poliker",
+      "album": "הופעה חיה בקיסריה",
+      "track": "לא יודע",
+      "uri": "spotify:track:7G9TL3WTEH8rq0ElRLa0qt"
+    },
+    {
+      "artist": "Joe Cocker",
+      "album": "Joe Cocker Live",
+      "track": "Guilty - Live",
+      "uri": "spotify:track:7jlsVmADZxTdFYqmsMGqni"
+    },
+    {
+      "artist": "Kaveret",
+      "album": "כוורת בפארק",
+      "track": "המ\"מ",
+      "uri": "spotify:track:5H2YnrmfCaemMxoohAn2Qe"
+    },
+    {
+      "artist": "Elton John",
+      "album": "Elton 60 - Live At Madison Square Garden",
+      "track": "All The Girls Love Alice - Live At Madison Square Garden",
+      "uri": "spotify:track:2s59zhKB7u0xCO3khxEEll"
+    },
+    {
+      "artist": "Gidi Gov",
+      "album": "שלל שיריו",
+      "track": "כמעט סתיו",
+      "uri": "spotify:track:3wYXCZ7LhjarHvk98JIamM"
+    },
+    {
+      "artist": "Ennio Morricone",
+      "album": "Cinema Paradiso",
+      "track": "Cinema Paradiso",
+      "uri": "spotify:track:7mQpHyD51jOr6zouLaFbZy"
+    },
+    {
+      "artist": "Billy Joel",
+      "album": "The Stranger (Legacy Edition)",
+      "track": "Only the Good Die Young",
+      "uri": "spotify:track:1xOXXYh6lTW8laxlW7JP2J"
+    },
+    {
+      "artist": "Yehuda Poliker",
+      "album": "הופעה חיה בקיסריה",
+      "track": "בוקר יום ראשון",
+      "uri": "spotify:track:1mmOBSAESwfb7unDlbFUJE"
+    },
+    {
+      "artist": "Billy Joel",
+      "album": "Live At Shea Stadium",
+      "track": "I Saw Her Standing There (feat. Paul McCartney) - Live at Shea Stadium, Queens, NY - July 2008",
+      "uri": "spotify:track:28JzpzSoewPaTPlotYuhDz"
+    },
+    {
+      "artist": "Billy Joel",
+      "album": "The Stranger (Legacy Edition)",
+      "track": "I've Loved These Days - Live at Carnegie Hall, New York, NY - June 1977",
+      "uri": "spotify:track:0Z8G02M7ncN87m1DexCFC4"
+    },
+    {
+      "artist": "Joe Cocker",
+      "album": "Joe Cocker Live",
+      "track": "High Time We Went - Live",
+      "uri": "spotify:track:45fRttkoFSkPlbN7XUJcQS"
+    },
+    {
+      "artist": "Elton John",
+      "album": "Goodbye Yellow Brick Road",
+      "track": "Goodbye Yellow Brick Road - Remastered 2014",
+      "uri": "spotify:track:63tF318GLU3iaQJEJm0Uph"
+    },
+    {
+      "artist": "Gidi Gov",
+      "album": "שלל שיריו",
+      "track": "ריקוד ירח",
+      "uri": "spotify:track:05dLCFmpm1fyRFQN4JKYBd"
+    },
+    {
+      "artist": "Genesis",
+      "album": "Genesis",
+      "track": "That's All - 2007 Remaster",
+      "uri": "spotify:track:2zFdsAIk9r2Mi7Lmm1w3sM"
+    },
+    {
+      "artist": "Shlomi Shabat",
+      "album": "ביחד על הבמה - הופעה חיה בקיסריה",
+      "track": "הצל ואני",
+      "uri": "spotify:track:30BBexJzWVdIEUQydjvmVR"
+    },
+    {
+      "artist": "Eric Clapton",
+      "album": "Slowhand 35th Anniversary",
+      "track": "Wonderful Tonight",
+      "uri": "spotify:track:4qmHeQBYieqj3VMAPascsE"
+    },
+    {
+      "artist": "Billy Joel",
+      "album": "Live At Shea Stadium",
+      "track": "Scenes From An Italian Restaurant - Live at Shea Stadium, Queens, NY - July 2008",
+      "uri": "spotify:track:7oSjS5LmaztZh3IiFBNRDt"
+    },
+    {
+      "artist": "Billy Joel",
+      "album": "The Stranger (Legacy Edition)",
+      "track": "The Entertainer - Live at Carnegie Hall, New York, NY - June 1977",
+      "uri": "spotify:track:2qnNUfbNRInP0CqsXYMYfF"
+    },
+    {
+      "artist": "Gabi Shoshan",
+      "album": "Naar Shachor Einaim",
+      "track": "Bereshit",
+      "uri": "spotify:track:7EURa2c8uSdDLJRFqCZn7j"
+    },
+    {
+      "artist": "Arik Sinai",
+      "album": "צל כבד",
+      "track": "אם אתה בסביבה",
+      "uri": "spotify:track:0Bq1zjvyl0Hmym9tVyHn0o"
+    },
+    {
+      "artist": "Gidi Gov",
+      "album": "שלל שיריו",
+      "track": "Singing A Song",
+      "uri": "spotify:track:2NSnejZ650rUIBq0KZfQp8"
+    },
+    {
+      "artist": "Astar Shamir",
+      "album": "במקום הכי נמוך בתל אביב",
+      "track": "במקום הכי נמוך בתל אביב",
+      "uri": "spotify:track:1NzPFoezx6lapbS1sQSPxY"
+    },
+    {
+      "artist": "Billy Joel",
+      "album": "The Stranger (Legacy Edition)",
+      "track": "She's Got a Way - Live at Carnegie Hall, New York, NY - June 1977",
+      "uri": "spotify:track:55TvHlxObIKvxD1vSn8Q4s"
+    },
+    {
+      "artist": "Elton John",
+      "album": "Goodbye Yellow Brick Road",
+      "track": "Goodbye Yellow Brick Road - Remastered 2014",
+      "uri": "spotify:track:4IRHwIZHzlHT1FQpRa5RdE"
+    },
+    {
+      "artist": "Gidi Gov",
+      "album": "שלל שיריו",
+      "track": "נאחז באוויר",
+      "uri": "spotify:track:2omXCnOf4VCWIsHzIQQ8Gy"
+    },
+    {
+      "artist": "Yehuda Poliker",
+      "album": "הופעה חיה בקיסריה",
+      "track": "עיניים שלי",
+      "uri": "spotify:track:0XO37Ukongl95e7MkLbDDs"
+    },
+    {
+      "artist": "Gidi Gov",
+      "album": "שלל שיריו",
+      "track": "ארץ אגדה",
+      "uri": "spotify:track:3Hc5CWH27CfEUmPKNUJ9ve"
+    },
+    {
+      "artist": "Frank Sinatra",
+      "album": "New York",
+      "track": "Strangers In The Night - Live At Radio City Music Hall, New York /1990",
+      "uri": "spotify:track:0O5h64gnCAnhdTvWQxrl2j"
+    },
+    {
+      "artist": "Billy Joel",
+      "album": "Live At Shea Stadium",
+      "track": "Everybody Loves You Now - Live at Shea Stadium, Queens, NY - July 2008",
+      "uri": "spotify:track:7If9eY1zoF8d1EeYU1LSyO"
+    },
+    {
+      "artist": "Dire Straits",
+      "album": "Alchemy: Dire Straits Live",
+      "track": "Love Over Gold - Live At Hammersmith Odeon, London/1983",
+      "uri": "spotify:track:3Lt8HFB9WB2rQZOiKvZW1U"
+    },
+    {
+      "artist": "Billy Joel",
+      "album": "Live At Shea Stadium",
+      "track": "She's Always A Woman - Live at Shea Stadium, Queens, NY - July 2008",
+      "uri": "spotify:track:1I9k4d5YPWEC3KJ0aXFBAt"
+    },
+    {
+      "artist": "Gidi Gov",
+      "album": "שלל שיריו",
+      "track": "גן סגור 83",
+      "uri": "spotify:track:6eki8a2Alayudrj438kW7P"
+    },
+    {
+      "artist": "Yehuda Poliker",
+      "album": "הופעה חיה בקיסריה",
+      "track": "פחות אבל כואב",
+      "uri": "spotify:track:5hpGpLvwIeosWAHTp9EW9a"
+    },
+    {
+      "artist": "Gidi Gov",
+      "album": "שלל שיריו",
+      "track": "בלעדייך",
+      "uri": "spotify:track:0E0KytCgCHmAM9Kfl0hWym"
+    },
+    {
+      "artist": "Yehuda Poliker",
+      "album": "הופעה חיה בקיסריה",
+      "track": "כשתגדל",
+      "uri": "spotify:track:6nYo4tPQPHn20nN7XH1uaI"
+    },
+    {
+      "artist": "Elton John",
+      "album": "Madman Across The Water",
+      "track": "Levon",
+      "uri": "spotify:track:0aJfFLl0grcQS7euiIp0ni"
+    },
+    {
+      "artist": "Kaveret",
+      "album": "כוורת בפארק",
+      "track": "שיר המכולת",
+      "uri": "spotify:track:7pds4TFGH7kTQiNW6yGwa0"
+    },
+    {
+      "artist": "Billy Joel",
+      "album": "The Stranger (Legacy Edition)",
+      "track": "Get It Right the First Time",
+      "uri": "spotify:track:6rEJ6ncZKq9EM3TwyMhTDo"
+    },
+    {
+      "artist": "Gidi Gov",
+      "album": "שלל שיריו",
+      "track": "בין שלוש ובין ארבע",
+      "uri": "spotify:track:301Q7v8MmHgpqL6QfMPSfv"
+    },
+    {
+      "artist": "Gidi Gov",
+      "album": "שלל שיריו",
+      "track": "עדיין מחכה לך",
+      "uri": "spotify:track:2G4uoT7SvuyLZ4PkFGPnSC"
+    },
+    {
+      "artist": "Billy Joel",
+      "album": "Live At Shea Stadium",
+      "track": "You May Be Right - Live at Shea Stadium, Queens, NY - July 2008",
+      "uri": "spotify:track:58X3TivaTWRDTsLscXFUL0"
+    },
+    {
+      "artist": "Yehuda Poliker",
+      "album": "הופעה חיה בקיסריה",
+      "track": "טרנס אוריינט",
+      "uri": "spotify:track:7jXPiuUGp2bXtfUKQVI39n"
+    },
+    {
+      "artist": "Dire Straits",
+      "album": "Alchemy: Dire Straits Live",
+      "track": "Once Upon A Time In The West - Live At Hammersmith Odeon, London/1983",
+      "uri": "spotify:track:0oABwzzb15juhAvog9eHom"
+    },
+    {
+      "artist": "Kaveret",
+      "album": "כוורת בפארק",
+      "track": "ילד מזדקן",
+      "uri": "spotify:track:4quQbqgx5RIdCOzgEXWeeP"
+    },
+    {
+      "artist": "Idan Raichel",
+      "album": "בין קירות ביתי",
+      "track": "רוב השעות",
+      "uri": "spotify:track:0dhTeU87tEbBwplgPe2NVd"
+    },
+    {
+      "artist": "Billy Joel",
+      "album": "Live At Shea Stadium",
+      "track": "Allentown - Live at Shea Stadium, Queens, NY - July 2008",
+      "uri": "spotify:track:3nwmHb1oLV9LsPmoz8leaK"
+    },
+    {
+      "artist": "Alphaville",
+      "album": "Forever Young",
+      "track": "Summer in Berlin",
+      "uri": "spotify:track:7vVjQjtbBqwMqjzf72Qplh"
+    },
+    {
+      "artist": "Dire Straits",
+      "album": "Alchemy: Dire Straits Live",
+      "track": "Expresso Love - Live At Hammersmith Odeon, London/1983",
+      "uri": "spotify:track:7JZZo8criUziw0Wnl4L6vj"
+    },
+    {
+      "artist": "Pet Shop Boys",
+      "album": "Pandemonium",
+      "track": "West End Girls - Live at the O2 Arena, London - 21 December 2009",
+      "uri": "spotify:track:4nKfwUyunCQQEp0ljZ2H0I"
+    },
+    {
+      "artist": "Joe Cocker",
+      "album": "Joe Cocker Live",
+      "track": "Unchain My Heart - Live",
+      "uri": "spotify:track:6lER4Ndv6NjAJzogJ6qVr1"
+    },
+    {
+      "artist": "Kaveret",
+      "album": "כוורת בפארק",
+      "track": "סיפורי פוגי",
+      "uri": "spotify:track:1G14bdA52McMGUQlGWQJrN"
+    },
+    {
+      "artist": "Yehuda Poliker",
+      "album": "הופעה חיה בקיסריה",
+      "track": "דברים שרציתי לומר",
+      "uri": "spotify:track:7Eur1UYDGz188H1Dttb9zd"
+    },
+    {
+      "artist": "Kaveret",
+      "album": "כוורת בפארק",
+      "track": "פתיחה - למרות הכל",
+      "uri": "spotify:track:6jTtWuiaEYqLtUmSEwfPjM"
+    },
+    {
+      "artist": "Yehuda Poliker",
+      "album": "הופעה חיה בקיסריה",
+      "track": "לעיניך הכחולות",
+      "uri": "spotify:track:4ub07iaJgYahLTa2gZqfYw"
+    },
+    {
+      "artist": "Yehuda Poliker",
+      "album": "הופעה חיה בקיסריה",
+      "track": "סיפור זמנים עברו",
+      "uri": "spotify:track:2c4oIIeKy47NK1b4zTyB9O"
+    },
+    {
+      "artist": "Dire Straits",
+      "album": "Alchemy: Dire Straits Live",
+      "track": "Two Young Lovers - Live At Hammersmith Odeon, London/1983",
+      "uri": "spotify:track:3x97H2Tqkos0Qyn3I1J1gU"
+    },
+    {
+      "artist": "Elton John",
+      "album": "Elton 60 - Live At Madison Square Garden",
+      "track": "Rocket Man - Live At Madison Square Garden",
+      "uri": "spotify:track:6dyESZ38Y9oG2b3P81rCi3"
+    },
+    {
+      "artist": "Yehuda Poliker",
+      "album": "הופעה חיה בקיסריה",
+      "track": "התחלה חדשה",
+      "uri": "spotify:track:4023TaFbCWPbA1hHrpblBa"
+    },
+    {
+      "artist": "Billy Joel",
+      "album": "Live At Shea Stadium",
+      "track": "New York State Of Mind (feat. Tony Bennett) - Live at Shea Stadium, Queens, NY - July 2008",
+      "uri": "spotify:track:6HW3N8uqz6IMTXT7ffQzgi"
+    },
+    {
+      "artist": "Nathan Goshen",
+      "album": "באתי לחלום",
+      "track": "נחכה לך",
+      "uri": "spotify:track:0ety2yTiWVKeqQeaed4Spj"
+    },
+    {
+      "artist": "Gidi Gov",
+      "album": "שלל שיריו",
+      "track": "עד הבוקר",
+      "uri": "spotify:track:4v3GA2fHnApA65WcdB5pap"
+    },
+    {
+      "artist": "Yehuda Poliker",
+      "album": "הופעה חיה בקיסריה",
+      "track": "זינגואלה",
+      "uri": "spotify:track:2aZ5f3NNUMNNkpK15VaTer"
+    },
+    {
+      "artist": "Billy Joel",
+      "album": "Live At Shea Stadium",
+      "track": "Summer, Highland Falls - Live at Shea Stadium, Queens, NY - July 2008",
+      "uri": "spotify:track:2u4NOGZ9DfNxERLwnLOrvW"
+    },
+    {
+      "artist": "Mashina",
+      "album": "משינה אנפלאגד",
+      "track": "הכוכבים דולקים על אש קטנה",
+      "uri": "spotify:track:2perqNTuZwalgi3DmJLIRY"
+    },
+    {
+      "artist": "Idan Raichel",
+      "album": "ואם תבואי אליי",
+      "track": "ואם תבואי אליי",
+      "uri": "spotify:track:45bZgiBPs6AZFHOyHcx68w"
+    },
+    {
+      "artist": "Billy Joel",
+      "album": "Live At Shea Stadium",
+      "track": "Goodnight Saigon - Live at Shea Stadium, Queens, NY - July 2008",
+      "uri": "spotify:track:43MboWQP4L89HJamnAyYyl"
+    },
+    {
+      "artist": "Kaveret",
+      "album": "כוורת בפארק",
+      "track": "כרומטיקה",
+      "uri": "spotify:track:6GElB2yglbvDhBEOq7ZLsg"
+    },
+    {
+      "artist": "Billy Joel",
+      "album": "The Stranger (Legacy Edition)",
+      "track": "Vienna",
+      "uri": "spotify:track:4U45aEWtQhrm8A5mxPaFZ7"
+    },
+    {
+      "artist": "Yehuda Poliker",
+      "album": "הופעה חיה בקיסריה",
+      "track": "קין",
+      "uri": "spotify:track:2pRrWLJABe0uKy3Jb4XTRI"
+    },
+    {
+      "artist": "Dire Straits",
+      "album": "Alchemy: Dire Straits Live",
+      "track": "Sultans Of Swing - Live At Hammersmith Odeon, London/1983",
+      "uri": "spotify:track:0mZmDoU1EHZ3QKHggvxVzx"
+    },
+    {
+      "artist": "Miri Mesika",
+      "album": "מירי מסיקה",
+      "track": "הצל ואני",
+      "uri": "spotify:track:2gBJhhoVYFoq4lins8IdIF"
+    },
+    {
+      "artist": "Dire Straits",
+      "album": "Alchemy: Dire Straits Live",
+      "track": "Going Home - Live At Hammersmith Odeon, London/1983",
+      "uri": "spotify:track:1a1ktSOhG0apiPSoSrlgSE"
+    },
+    {
+      "artist": "Yehuda Poliker",
+      "album": "הופעה חיה בקיסריה",
+      "track": "חופשי זה לגמרי לבד",
+      "uri": "spotify:track:6do3m7fjbInyev26ckpvX1"
+    },
+    {
+      "artist": "Joe Cocker",
+      "album": "Joe Cocker Live",
+      "track": "With a Little Help From My Friends - Live",
+      "uri": "spotify:track:0rlk2vPR5f4okQ8iwthJNZ"
+    },
+    {
+      "artist": "Kaveret",
+      "album": "כוורת בפארק",
+      "track": "גלשן",
+      "uri": "spotify:track:4ehRwKMmRoWgwbuUXsA5fG"
+    },
+    {
+      "artist": "Billy Joel",
+      "album": "Live At Shea Stadium",
+      "track": "My Life - Live at Shea Stadium, Queens, NY - July 2008",
+      "uri": "spotify:track:3Si1iG9KofSJVKFDb7MiiI"
+    },
+    {
+      "artist": "Elton John",
+      "album": "Elton 60 - Live At Madison Square Garden",
+      "track": "Burn Down The Mission - Live At Madison Square Garden",
+      "uri": "spotify:track:4jCrD4ptewY3F2kKX94Cq8"
+    },
+    {
+      "artist": "Joe Cocker",
+      "album": "Joe Cocker Live",
+      "track": "When the Night Comes - Live - Memorial Auditorium",
+      "uri": "spotify:track:2TE3xtQod096TVX5cyiCu6"
+    },
+    {
+      "artist": "Gidi Gov",
+      "album": "שלל שיריו",
+      "track": "זמר לספינה",
+      "uri": "spotify:track:5ZREmeJQVhbKeOTBwmyiDN"
+    },
+    {
+      "artist": "Yehuda Poliker",
+      "album": "הופעה חיה בקיסריה",
+      "track": "רדיו רמאללה",
+      "uri": "spotify:track:6dPNFry82ytD3EYJi0VmLC"
+    },
+    {
+      "artist": "Kaveret",
+      "album": "כוורת בפארק",
+      "track": "היא הולכת בדרכים",
+      "uri": "spotify:track:5FjIx9g2orN1dPaptIRqpJ"
+    },
+    {
+      "artist": "Kaveret",
+      "album": "כוורת בפארק",
+      "track": "אנשי הארון",
+      "uri": "spotify:track:0E2YZzY48uZjhxJvyTjl5e"
+    },
+    {
+      "artist": "Billy Joel",
+      "album": "The Stranger (Legacy Edition)",
+      "track": "Miami 2017 (Seen the Lights Go Out On Broadway) - Live at Carnegie Hall, New York, NY - June 1977",
+      "uri": "spotify:track:6uC9fa50cFyDOc1BTOLXiM"
+    },
+    {
+      "artist": "The Pure Souls",
+      "album": "Haneshamot Hatehorot",
+      "track": "Cafe Etzel Berta",
+      "uri": "spotify:track:1XNPAvOgqrypJ5D2XKLhLn"
+    },
+    {
+      "artist": "Yehuda Poliker",
+      "album": "הופעה חיה בקיסריה",
+      "track": "מה יהיה יהיה",
+      "uri": "spotify:track:0MODgVDBwZCy0vGAoRaPn6"
+    },
+    {
+      "artist": "Kaveret",
+      "album": "כוורת בפארק",
+      "track": "מתמטיקה",
+      "uri": "spotify:track:1TBXMWc5tHIv9iE1V8vBSA"
+    },
+    {
+      "artist": "Dire Straits",
+      "album": "Alchemy: Dire Straits Live",
+      "track": "Telegraph Road - Live At Hammersmith Odeon, London/1983",
+      "uri": "spotify:track:6uTwMHDOMXhTOQuwf520l4"
+    },
+    {
+      "artist": "Kaveret",
+      "album": "כוורת בפארק",
+      "track": "זוכר,לא זוכר",
+      "uri": "spotify:track:3QCrDwXTLKwBrvvqUoQTnh"
+    },
+    {
+      "artist": "Air Supply",
+      "album": "Greatest Hits Live...Now And Forever",
+      "track": "All out of Love - Live",
+      "uri": "spotify:track:6R1Spc6haBVNcEkIO9oUYx"
+    },
+    {
+      "artist": "Elton John",
+      "album": "Elton 60 - Live At Madison Square Garden",
+      "track": "Daniel - Live At Madison Square Garden",
+      "uri": "spotify:track:0fHlnadAAoihQsUNrKz7Gz"
+    },
+    {
+      "artist": "Opus",
+      "album": "Live Is Life",
+      "track": "Live Is Life (Digitally Remastered) (Single Version)",
+      "uri": "spotify:track:5luOvrlnzfvJQdQjrScVj4"
+    },
+    {
+      "artist": "The Who",
+      "album": "Who's Next",
+      "track": "Baba O'Riley",
+      "uri": "spotify:track:3qiyyUfYe7CRYLucrPmulD"
+    },
+    {
+      "artist": "Kaveret",
+      "album": "כוורת בפארק",
+      "track": "פה קבור הכלב",
+      "uri": "spotify:track:6LCRSpziJcM10qUMpX7vL8"
+    },
+    {
+      "artist": "Joe Cocker",
+      "album": "Joe Cocker Live",
+      "track": "You Can Leave Your Hat On - Live",
+      "uri": "spotify:track:6PhLdR6pEjtiVSkRYInYCP"
+    },
+    {
+      "artist": "Joe Cocker",
+      "album": "Joe Cocker Live",
+      "track": "Shelter Me - Live",
+      "uri": "spotify:track:4m6uT6DPePro1aee1JN5P8"
+    },
+    {
+      "artist": "Billy Joel",
+      "album": "52nd Street",
+      "track": "Zanzibar",
+      "uri": "spotify:track:70Znjq5VPKFrwlB7O26SWT"
+    },
+    {
+      "artist": "Kaveret",
+      "album": "כוורת בפארק",
+      "track": "מחרוזת אקוסטית",
+      "uri": "spotify:track:3t399h9lq0wujDxKzffngO"
+    },
+    {
+      "artist": "Gidi Gov",
+      "album": "שלל שיריו",
+      "track": "הו מה יהיה",
+      "uri": "spotify:track:4FtjJanDesx58l6orD5ybN"
+    },
+    {
+      "artist": "Kaoma",
+      "album": "Lambada - Les originaux No. 1 de l'été",
+      "track": "Lambada - Original Version 1989",
+      "uri": "spotify:track:6xepovPqjvrkEw9Y5AMmTm"
+    },
+    {
+      "artist": "Gidi Gov",
+      "album": "שלל שיריו",
+      "track": "למה לבך כמו קרח",
+      "uri": "spotify:track:64lh0aitxgIpsIdOnlGLjy"
+    },
+    {
+      "artist": "Kaveret",
+      "album": "כוורת בפארק",
+      "track": "כוורת און 45",
+      "uri": "spotify:track:2DZk34tfSbWLhwKej1EghM"
+    },
+    {
+      "artist": "Billy Joel",
+      "album": "The Stranger (Legacy Edition)",
+      "track": "Everybody Has a Dream",
+      "uri": "spotify:track:1s65HRPwZtSG5dBIBZ0dix"
+    },
+    {
+      "artist": "Billy Joel",
+      "album": "Live At Shea Stadium",
+      "track": "Shameless (feat. Garth Brooks) - Live at Shea Stadium, Queens, NY - July 2008",
+      "uri": "spotify:track:5yIsenAzY9NSwqTh1Enmdh"
+    },
+    {
+      "artist": "Kaveret",
+      "album": "כוורת בפארק",
+      "track": "למה ליבך כמו קרח?",
+      "uri": "spotify:track:3vhKTrSEcNO2RxvatXhfvl"
+    },
+    {
+      "artist": "Kaveret",
+      "album": "כוורת בפארק",
+      "track": "שירות עצמי",
+      "uri": "spotify:track:2nELZhC68Ut43lIVi1vXxV"
+    },
+    {
+      "artist": "Kaveret",
+      "album": "כוורת בפארק",
+      "track": "הבלדה על ארי ודרצ'י",
+      "uri": "spotify:track:2iwTqnMRNhCuC4uJGSguLr"
+    },
+    {
+      "artist": "Kaveret",
+      "album": "כוורת בפארק",
+      "track": "הותיק",
+      "uri": "spotify:track:6AU5S9v1JrQazvQ5wRYXfC"
+    },
+    {
+      "artist": "Billy Joel",
+      "album": "52nd Street",
+      "track": "Honesty",
+      "uri": "spotify:track:34E0Higz6fFVXlbVsn6TIW"
+    },
+    {
+      "artist": "Kaveret",
+      "album": "כוורת בפארק",
+      "track": "גוליית",
+      "uri": "spotify:track:1Ph7Bkehge0Dq28NU3vyPr"
+    },
+    {
+      "artist": "Joe Cocker",
+      "album": "Joe Cocker Live",
+      "track": "Hitchcock Railway - Live",
+      "uri": "spotify:track:24NOa0yh8wutu5tZkqWrEB"
+    },
+    {
+      "artist": "Bee Gees",
+      "album": "How Can You Mend A Broken Heart",
+      "track": "Stayin Alive",
+      "uri": "spotify:track:5ubvP9oKmxLUVq506fgLhk"
+    },
+    {
+      "artist": "Queen",
+      "album": "Live Around The World",
+      "track": "Somebody To Love - Live At The Isle Of Wight Festival, UK, 2016",
+      "uri": "spotify:track:0bbv6aSL5rcjKCu9Aj2Xxa"
+    },
+    {
+      "artist": "Billy Joel",
+      "album": "The Stranger (Legacy Edition)",
+      "track": "New York State of Mind - Live at Carnegie Hall, New York, NY - June 1977",
+      "uri": "spotify:track:3qrmvMrpP4JADQUk8AZZaL"
+    },
+    {
+      "artist": "Gidi Gov",
+      "album": "שלל שיריו",
+      "track": "פרח",
+      "uri": "spotify:track:7BpZOd6YadIbjKDGieJSxG"
+    },
+    {
+      "artist": "Gidi Gov",
+      "album": "שלל שיריו",
+      "track": "יש אי שם",
+      "uri": "spotify:track:0jXd9ueEjiAWL99SsUWp33"
+    },
+    {
+      "artist": "Billy Joel",
+      "album": "The Stranger (Legacy Edition)",
+      "track": "Prelude / Angry Young Man - Live at Carnegie Hall, New York, NY - June 1977",
+      "uri": "spotify:track:7kYQF3TJwQG9xJhSZJIj6v"
+    },
+    {
+      "artist": "Joe Cocker",
+      "album": "Joe Cocker Live",
+      "track": "Living in the Promiseland - Studio Version",
+      "uri": "spotify:track:3Gr7HzuSFixGO9yu3JPV95"
+    },
+    {
+      "artist": "Billy Joel",
+      "album": "Live At Shea Stadium",
+      "track": "Prelude/Angry Young Man - Live at Shea Stadium, Queens, NY - July 2008",
+      "uri": "spotify:track:6qNlUlcbk3gH6HTPfQPUcu"
+    },
+    {
+      "artist": "Kaveret",
+      "album": "כוורת בפארק",
+      "track": "נתתי לה חיי",
+      "uri": "spotify:track:7Ks6KW7uIJY73PIk2v4V52"
+    },
+    {
+      "artist": "Gidi Gov",
+      "album": "שלל שיריו",
+      "track": "סימן שאתה צעיר - הופעה חיה",
+      "uri": "spotify:track:2OgOYv1WrwLGFksqIKlnq0"
+    },
+    {
+      "artist": "Billy Joel",
+      "album": "52nd Street",
+      "track": "52nd Street",
+      "uri": "spotify:track:4V4JM8brxPHFkaDd4OyTii"
+    },
+    {
+      "artist": "Billy Joel",
+      "album": "Live At Shea Stadium",
+      "track": "Zanzibar - Live at Shea Stadium, Queens, NY - July 2008",
+      "uri": "spotify:track:5dDaDPXXEaTuKtBDLaNHiZ"
+    },
+    {
+      "artist": "Kaveret",
+      "album": "כוורת בפארק",
+      "track": "ספרדי",
+      "uri": "spotify:track:5UOHiMSG4010SiiZQOIwrn"
+    },
+    {
+      "artist": "Yehuda Poliker",
+      "album": "הופעה חיה בקיסריה",
+      "track": "אני רוצה גם",
+      "uri": "spotify:track:2PWGBo32JW4fN3aI6hMWjN"
+    },
+    {
+      "artist": "Billy Joel",
+      "album": "Live At Shea Stadium",
+      "track": "Take Me Out To The Ball Game - Live at Shea Stadium, Queens, NY - July 2008",
+      "uri": "spotify:track:6Urr9ZpwOusb807dhn0MIo"
+    },
+    {
+      "artist": "Yehuda Poliker",
+      "album": "הופעה חיה בקיסריה",
+      "track": "אפר ואבק",
+      "uri": "spotify:track:15YbG5qd44addfWv5qHS9R"
+    },
+    {
+      "artist": "Elton John",
+      "album": "Elton 60 - Live At Madison Square Garden",
+      "track": "Crocodile Rock - Live At Madison Square Garden",
+      "uri": "spotify:track:3bW1EqwLYw3KMPoaU775Dt"
+    },
+    {
+      "artist": "Gidi Gov",
+      "album": "שלל שיריו",
+      "track": "מה אתה בכלל יודע על אהבה",
+      "uri": "spotify:track:18VuEjMcI9iRPhaHolmBhK"
+    },
+    {
+      "artist": "Rod Stewart",
+      "album": "Every Picture Tells A Story",
+      "track": "Maggie May",
+      "uri": "spotify:track:2LpirOWiA4eslLRuPpQT7V"
+    },
+    {
+      "artist": "Arik Sinai",
+      "album": "אריק סיני",
+      "track": "דרך הכורכר",
+      "uri": "spotify:track:3x76eLf7zhKV3hsoiRzk2d"
+    },
+    {
+      "artist": "Joe Cocker",
+      "album": "Joe Cocker Live",
+      "track": "She Came in Through the Bathroom Window - Live",
+      "uri": "spotify:track:0QND5ZUEZKSkSGQ7NNfAE9"
+    },
+    {
+      "artist": "Billy Joel",
+      "album": "Live At Shea Stadium",
+      "track": "Lullabye (Goodnight, My Angel) - Live at Shea Stadium, Queens, NY - July 2008",
+      "uri": "spotify:track:5PZ8SLA3hOGCaD9yEtLj7E"
+    },
+    {
+      "artist": "Joe Cocker",
+      "album": "Joe Cocker Live",
+      "track": "Up Where We Belong (with Maxine Green) - Live",
+      "uri": "spotify:track:6z128A1KmePQx3O9QagJo4"
+    },
+    {
+      "artist": "Kaveret",
+      "album": "כוורת בפארק",
+      "track": "הורה האחזות",
+      "uri": "spotify:track:4MCC9vhqlM6hqPP4UK0nEx"
+    },
+    {
+      "artist": "Joe Cocker",
+      "album": "Joe Cocker Live",
+      "track": "Feelin' Alright - Live",
+      "uri": "spotify:track:5CmA7Vx66bRT7FxAaGs0Bu"
+    },
+    {
+      "artist": "Yehuda Poliker",
+      "album": "הופעה חיה בקיסריה",
+      "track": "פנים אל מול פנים",
+      "uri": "spotify:track:0oilhlsU7hqu3KYAjSACOC"
+    },
+    {
+      "artist": "Gidi Gov",
+      "album": "שלל שיריו",
+      "track": "הפרוטה והירח",
+      "uri": "spotify:track:4VJBJOTNkYeMjSEZWfRALs"
+    },
+    {
+      "artist": "Billy Joel",
+      "album": "The Stranger (Legacy Edition)",
+      "track": "Just the Way You Are",
+      "uri": "spotify:track:49MHCPzvMLXhRjDantBMVH"
+    },
+    {
+      "artist": "Kaveret",
+      "album": "כוורת בפארק",
+      "track": "שיר מלחים",
+      "uri": "spotify:track:6eisq1Vl8I8xyz5W9Y7ImL"
+    },
+    {
+      "artist": "Kaveret",
+      "album": "כוורת בפארק",
+      "track": "זה הכל בשבילך",
+      "uri": "spotify:track:7ebPNXydKhLg6NJHjOI487"
+    },
+    {
+      "artist": "Billy Joel",
+      "album": "The Stranger (Legacy Edition)",
+      "track": "Just the Way You Are - Live at Carnegie Hall, New York, NY - June 1977",
+      "uri": "spotify:track:1nFYpnm7F7iJgvKpSdyZXl"
+    },
+    {
+      "artist": "Itzhak Klepter",
+      "album": "מחזיק מעמד",
+      "track": "דמיון חופשי",
+      "uri": "spotify:track:3KBsbvGcOyRagvCyf6o4U0"
+    },
+    {
+      "artist": "Gidi Gov",
+      "album": "שלל שיריו",
+      "track": "עניין של זמן",
+      "uri": "spotify:track:38RbKaKRFPbi5LE2xalWmC"
+    },
+    {
+      "artist": "Gidi Gov",
+      "album": "שלל שיריו",
+      "track": "יעלה ויבוא",
+      "uri": "spotify:track:0npiLjb3YK2jBOjNx9ei6r"
+    },
+    {
+      "artist": "Queen",
+      "album": "Live At Wembley Stadium",
+      "track": "We Are the Champions - Live At Wembley Stadium / July 1986",
+      "uri": "spotify:track:5XGggdzWtLwIqFOzVxcVYp"
+    },
+    {
+      "artist": "Billy Joel",
+      "album": "Live At Shea Stadium",
+      "track": "The Ballad Of Billy The Kid - Live at Shea Stadium, Queens, NY - July 2008",
+      "uri": "spotify:track:69jU0faeGGEQKOgHxm03uN"
+    },
+    {
+      "artist": "Elton John",
+      "album": "Elton 60 - Live At Madison Square Garden",
+      "track": "Tiny Dancer - Live At Madison Square Garden",
+      "uri": "spotify:track:4PEQBjhAIlegdDrDJHLS9m"
+    },
+    {
+      "artist": "Dire Straits",
+      "album": "Alchemy: Dire Straits Live",
+      "track": "Tunnel Of Love - Live At Hammersmith Odeon, London/1983",
+      "uri": "spotify:track:0ipbUnq9r5aexekY8MiusY"
+    },
+    {
+      "artist": "Billy Joel",
+      "album": "The Stranger (Legacy Edition)",
+      "track": "Band Introductions - Live at Carnegie Hall, New York, NY - June 1977",
+      "uri": "spotify:track:2PeB3kosc35XamDfXy3eAc"
+    },
+    {
+      "artist": "Scorpions",
+      "album": "Comeblack",
+      "track": "Still Loving You",
+      "uri": "spotify:track:0RdUX4WE0fO30VnlUbDVL6"
+    },
+    {
+      "artist": "Gidi Gov",
+      "album": "שלל שיריו",
+      "track": "כשאת מחייכת",
+      "uri": "spotify:track:7tvGhTRnKOdG9a6babJCAb"
+    },
+    {
+      "artist": "Kaveret",
+      "album": "כוורת בפארק",
+      "track": "סיפור המכולת",
+      "uri": "spotify:track:7kY5Gb4QmGQ1EXFOYhM77d"
+    },
+    {
+      "artist": "Gidi Gov",
+      "album": "שלל שיריו",
+      "track": "יורם",
+      "uri": "spotify:track:3GvN4aRQDdFgdmrAKmKmru"
+    },
+    {
+      "artist": "Billy Joel",
+      "album": "The Stranger (Legacy Edition)",
+      "track": "Scenes from an Italian Restaurant - Live at Carnegie Hall, New York, NY - June 1977",
+      "uri": "spotify:track:6eM1ju6kLvgzdnT5mJgSJb"
+    },
+    {
+      "artist": "Billy Joel",
+      "album": "Live At Shea Stadium",
+      "track": "Only The Good Die Young - Live at Shea Stadium, Queens, NY - July 2008",
+      "uri": "spotify:track:5zNzguTAJpwkaVEZNynSeR"
+    },
+    {
+      "artist": "Queen",
+      "album": "Live At Wembley Stadium",
+      "track": "Bohemian Rhapsody - Live At Wembley Stadium / July 1986",
+      "uri": "spotify:track:2XbcujvemK0hGh0Ob4HAXQ"
+    },
+    {
+      "artist": "Billy Joel",
+      "album": "52nd Street",
+      "track": "Half a Mile Away",
+      "uri": "spotify:track:09datZkY6pysFP4lE0bo3M"
+    },
+    {
+      "artist": "Kaveret",
+      "album": "כוורת בפארק",
+      "track": "חורחה שניידרמן",
+      "uri": "spotify:track:1tr6gzFYq3OCbxHdurplcU"
+    },
+    {
+      "artist": "Billy Joel",
+      "album": "52nd Street",
+      "track": "My Life",
+      "uri": "spotify:track:4ZoBC5MhSEzuknIgAkBaoT"
+    },
+    {
+      "artist": "Gidi Gov",
+      "album": "שלל שיריו",
+      "track": "שלל שרב",
+      "uri": "spotify:track:53IViMUGgbOKwrLpumhm5M"
+    },
+    {
+      "artist": "Gidi Gov",
+      "album": "שלל שיריו",
+      "track": "העיקר זה הרומנטיקה",
+      "uri": "spotify:track:62i9pvnjZeCgFT7jNu1pBR"
+    },
+    {
+      "artist": "Gidi Gov",
+      "album": "שלל שיריו",
+      "track": "כלים שלובים",
+      "uri": "spotify:track:39mA7ESbArqUL2Q8bpaVbR"
+    },
+    {
+      "artist": "Billy Joel",
+      "album": "The Stranger (Legacy Edition)",
+      "track": "The Stranger",
+      "uri": "spotify:track:54xbcKFYv2PC6ujERHppRj"
+    },
+    {
+      "artist": "Billy Joel",
+      "album": "The Stranger (Legacy Edition)",
+      "track": "Say Goodbye to Hollywood - Live at Carnegie Hall, New York, NY - June 1977",
+      "uri": "spotify:track:20Xtv4fo9ClcgwEGVrdviG"
+    },
+    {
+      "artist": "Kaveret",
+      "album": "כוורת בפארק",
+      "track": "סיפורי פוגי",
+      "uri": "spotify:track:2PimjxBLwbPVYAAqtRgJsW"
+    },
+    {
+      "artist": "Yehuda Poliker",
+      "album": "הופעה חיה בקיסריה",
+      "track": "מזוודות",
+      "uri": "spotify:track:36xs6fwNVsbv47sVXA8k0M"
+    },
+    {
+      "artist": "Alphaville",
+      "album": "Stark Naked and Absolutely Live",
+      "track": "Sounds Like a Melody",
+      "uri": "spotify:track:7hcwX5pMwhpiSHQAvrKfB5"
+    },
+    {
+      "artist": "Elton John",
+      "album": "Elton 60 - Live At Madison Square Garden",
+      "track": "Your Song - Live At Madison Square Garden",
+      "uri": "spotify:track:7yIvYLtaJ5GwAySF328u1r"
+    },
+    {
+      "artist": "Yehuda Poliker",
+      "album": "הופעה חיה בקיסריה",
+      "track": "והילדים באים",
+      "uri": "spotify:track:16gvockqJuj6xaxJ2sO8ub"
+    },
+    {
+      "artist": "Ofra Avni & Itzik Yona",
+      "album": "Music for Meditation",
+      "track": "One",
+      "uri": "spotify:track:2nierBnru32KkvkeTLGChe"
+    },
+    {
+      "artist": "Billy Joel",
+      "album": "The Stranger (Legacy Edition)",
+      "track": "Souvenir - Live at Carnegie Hall, New York, NY - June 1977",
+      "uri": "spotify:track:4adKhxS40S3YGVt31EQfqe"
+    },
+    {
+      "artist": "Billy Joel",
+      "album": "Live At Shea Stadium",
+      "track": "Keeping The Faith - Live at Shea Stadium, Queens, NY - July 2008",
+      "uri": "spotify:track:0ZV5ga7R5gUeNnWzzY8cSH"
+    },
+    {
+      "artist": "Billy Joel",
+      "album": "Live At Shea Stadium",
+      "track": "Let It Be (feat. Paul McCartney) - Live at Shea Stadium, Queens, NY - July 2008",
+      "uri": "spotify:track:3UpWAHui6MTeUBIL799Wt3"
+    },
+    {
+      "artist": "Dire Straits",
+      "album": "Alchemy: Dire Straits Live",
+      "track": "Romeo And Juliet - Live At Hammersmith Odeon, London/1983",
+      "uri": "spotify:track:2YMM4fB2faNhpEBBZS7TdU"
+    },
+    {
+      "artist": "Billy Joel",
+      "album": "52nd Street",
+      "track": "Until the Night",
+      "uri": "spotify:track:3UzWjLQVzCG60gwJdApLqI"
+    },
+    {
+      "artist": "Yehuda Poliker",
+      "album": "הופעה חיה בקיסריה",
+      "track": "משב רוח",
+      "uri": "spotify:track:1W6nWzgeuUU9CyLJutaFvx"
+    },
+    {
+      "artist": "Tones And I",
+      "album": "Dance Monkey (Stripped Back) / Dance Monkey",
+      "track": "Dance Monkey",
+      "uri": "spotify:track:2XU0oxnq2qxCpomAAuJY8K"
+    },
+    {
+      "artist": "Kaveret",
+      "album": "כוורת בפארק",
+      "track": "התמנון האיטר",
+      "uri": "spotify:track:5MGv6xx7ROBPh3fPPywK1n"
+    },
+    {
+      "artist": "Gidi Gov",
+      "album": "שלל שיריו",
+      "track": "בקצה ההר",
+      "uri": "spotify:track:25f5b3dsjEOB54yfYowneX"
+    },
+    {
+      "artist": "Kaveret",
+      "album": "כוורת בפארק",
+      "track": "מעבר ברוך",
+      "uri": "spotify:track:4PD9ecM7LyVnKHtcZRigZV"
+    },
+    {
+      "artist": "Kaveret",
+      "album": "כוורת בפארק",
+      "track": "היא כל כך יפה",
+      "uri": "spotify:track:5srLCqFexfPpJBSAdnR23t"
+    },
+    {
+      "artist": "Yehuda Poliker",
+      "album": "הופעה חיה בקיסריה",
+      "track": "טוגרמה (המכתב)",
+      "uri": "spotify:track:6OE4TqVvhTxGoWS1P56PSN"
+    },
+    {
+      "artist": "Hanan Ben Ari",
+      "album": "אלוף העולם",
+      "track": "אלוף העולם",
+      "uri": "spotify:track:67dg9xeMIRXjcQbmbWtBFW"
+    },
+    {
+      "artist": "Billy Joel",
+      "album": "Live At Shea Stadium",
+      "track": "Captain Jack - Live at Shea Stadium, Queens, NY - July 2008",
+      "uri": "spotify:track:2rYVOQQUzRXd9QIcQXwcDZ"
+    },
+    {
+      "artist": "Billy Joel",
+      "album": "52nd Street",
+      "track": "Big Shot",
+      "uri": "spotify:track:22wxe2Yc9JzihICXYLGAQ7"
+    },
+    {
+      "artist": "Billy Joel",
+      "album": "52nd Street",
+      "track": "Rosalinda's Eyes",
+      "uri": "spotify:track:6rbuyK8TNQ72oP2KY52k4d"
+    },
+    {
+      "artist": "Kaveret",
+      "album": "כוורת בפארק",
+      "track": "שעור מולדת",
+      "uri": "spotify:track:2K41CTLtCeYa97ucRC9uGb"
+    },
+    {
+      "artist": "Kaveret",
+      "album": "כוורת בפארק",
+      "track": "מדינה קטנה",
+      "uri": "spotify:track:1SKn4qVyx7zAJ0qMeTx87S"
+    },
+    {
+      "artist": "Gidi Gov",
+      "album": "שלל שיריו",
+      "track": "בואי נישאר",
+      "uri": "spotify:track:27fMZkaBcxj1wv2XjRAB5x"
+    },
+    {
+      "artist": "Gidi Gov",
+      "album": "שלל שיריו",
+      "track": "ג'יגולו",
+      "uri": "spotify:track:0DTKnvbPPwupeEHUHiuj7a"
+    },
+    {
+      "artist": "Elton John",
+      "album": "Elton 60 - Live At Madison Square Garden",
+      "track": "Honky Cat - Live At Madison Square Garden",
+      "uri": "spotify:track:6XJ80gOL41xJICLNgGJhOR"
+    },
+    {
+      "artist": "Billy Joel",
+      "album": "Live At Shea Stadium",
+      "track": "We Didn't Start The Fire - Live at Shea Stadium, Queens, NY - July 2008",
+      "uri": "spotify:track:3SKxKQHqWRb08nKyK0Ovdu"
+    },
+    {
+      "artist": "Billy Joel",
+      "album": "The Stranger (Legacy Edition)",
+      "track": "Captain Jack - Live at Carnegie Hall, New York, NY - June 1977",
+      "uri": "spotify:track:6cWv9xpzoAaBjqRg3mCZi3"
+    },
+    {
+      "artist": "Kaveret",
+      "album": "כוורת בפארק",
+      "track": "האיש עם המסור",
+      "uri": "spotify:track:6GGJXdLQFb1qh2TmLEWrrB"
+    },
+    {
+      "artist": "Kaveret",
+      "album": "כוורת בפארק",
+      "track": "מחפש דרך חזרה",
+      "uri": "spotify:track:3dkDubjUGL6FjtOC2Gq1IU"
+    },
+    {
+      "artist": "Gidi Gov",
+      "album": "שלל שיריו",
+      "track": "מי תרצי",
+      "uri": "spotify:track:3XoCbFQ1Vx1OczoQnL7qO5"
+    },
+    {
+      "artist": "Billy Joel",
+      "album": "The Stranger (Legacy Edition)",
+      "track": "Scenes from an Italian Restaurant",
+      "uri": "spotify:track:3utq2FgD1pkmIoaWfjXWAU"
+    },
+    {
+      "artist": "Joe Cocker",
+      "album": "Joe Cocker Live",
+      "track": "You Are so Beautiful - Live",
+      "uri": "spotify:track:0hig4Cf4QPSBzYjGtKmn9R"
+    },
+    {
+      "artist": "Kaveret",
+      "album": "כוורת בפארק",
+      "track": "אני ואת אז",
+      "uri": "spotify:track:2R4yGcQKUGm6GjPf6dnjco"
+    },
+    {
+      "artist": "Dire Straits",
+      "album": "Alchemy: Dire Straits Live",
+      "track": "Solid Rock - Live At Hammersmith Odeon, London/1983",
+      "uri": "spotify:track:6eisRHcLAr50EESMquTDMX"
+    },
+    {
+      "artist": "Kaveret",
+      "album": "כוורת בפארק",
+      "track": "המגפיים של ברוך",
+      "uri": "spotify:track:2Aa0ajR9s4f2i0MhgHDoix"
+    },
+    {
+      "artist": "Billy Joel",
+      "album": "Live At Shea Stadium",
+      "track": "The River Of Dreams / A Hard Day's Night - Live at Shea Stadium, Queens, NY - July 2008",
+      "uri": "spotify:track:5GUNK2bU5nFi4bUB7O76gr"
+    },
+    {
+      "artist": "Billy Joel",
+      "album": "Live At Shea Stadium",
+      "track": "Miami 2017 (Seen the Lights Go Out On Broadway) - Live at Shea Stadium, Queens, NY - July 2008",
+      "uri": "spotify:track:61mreimGl1nqKigAiwDXKw"
+    },
+    {
+      "artist": "Kaveret",
+      "album": "כוורת בפארק",
+      "track": "סוכר בתה",
+      "uri": "spotify:track:5CruUxZNZOT7Hhsrhc41UF"
+    },
+    {
+      "artist": "Gidi Gov",
+      "album": "שלל שיריו",
+      "track": "נערה במשקפיים",
+      "uri": "spotify:track:0p3sV6sI7ehtNrxaYJF3nZ"
+    },
+    {
+      "artist": "Alphaville",
+      "album": "Catching Rays On Giant",
+      "track": "Call Me",
+      "uri": "spotify:track:4HrUXY2ML7QWaHSd8XgHrd"
+    },
+    {
+      "artist": "Dire Straits",
+      "album": "Alchemy: Dire Straits Live",
+      "track": "Private Investigations - Live At Hammersmith Odeon, London/1983",
+      "uri": "spotify:track:6C9rm8Yz05seTiOfqRPVUk"
+    },
+    {
+      "artist": "Elton John",
+      "album": "Elton 60 - Live At Madison Square Garden",
+      "track": "Funeral For A Friend/Love Lies Bleeding - Live At Madison Square Garden",
+      "uri": "spotify:track:4gyMF8qgZxpPj62d1rxZ84"
+    },
+    {
+      "artist": "Joe Cocker",
+      "album": "Joe Cocker Live",
+      "track": "The Letter - Live",
+      "uri": "spotify:track:6njGNHoyvTjjh8kvnnOznT"
+    },
+    {
+      "artist": "Elton John",
+      "album": "Elton 60 - Live At Madison Square Garden",
+      "track": "Saturday Night's Alright For Fighting - Live At Madison Square Garden",
+      "uri": "spotify:track:0ZZuzvDBQHzQkBoIWfUW0S"
+    },
+    {
+      "artist": "Kaveret",
+      "album": "כוורת בפארק",
+      "track": "אירופה",
+      "uri": "spotify:track:77lXMM3BHeduTloKUHjzuh"
+    },
+    {
+      "artist": "Billy Joel",
+      "album": "Live At Shea Stadium",
+      "track": "This Is The Time (feat. John Mayer) - Live at Shea Stadium, Queens, NY - July 2008",
+      "uri": "spotify:track:5Wf8sdQL7e9vHOVBDdGRdd"
+    },
+    {
+      "artist": "Elton John",
+      "album": "Elton 60 - Live At Madison Square Garden",
+      "track": "Take Me To The Pilot - Live At Madison Square Garden",
+      "uri": "spotify:track:4c9zRfjBArnYawmRUZbDSc"
+    },
+    {
+      "artist": "Kaveret",
+      "album": "כוורת בפארק",
+      "track": "ילד",
+      "uri": "spotify:track:412s5zATA3lSTfK9Tvqd7d"
+    },
+    {
+      "artist": "Billy Joel",
+      "album": "The Stranger (Legacy Edition)",
+      "track": "Movin' Out (Anthony's Song)",
+      "uri": "spotify:track:16GUMo6u3D2qo9a19AkYct"
+    },
+    {
+      "artist": "Kaveret",
+      "album": "כוורת בפארק",
+      "track": "פנס בודד",
+      "uri": "spotify:track:6cB8z6nW11K4V3QUCtp5Dt"
+    },
+    {
+      "artist": "Gidi Gov",
+      "album": "שלל שיריו",
+      "track": "אין עוד יום",
+      "uri": "spotify:track:2uiLqokN73ZnHdcY6GXoue"
+    },
+    {
+      "artist": "Yehuda Poliker",
+      "album": "הופעה חיה בקיסריה",
+      "track": "חלון לים התיכון",
+      "uri": "spotify:track:2gb8fT0lApv0ewUO4Ki9xv"
+    },
+    {
+      "artist": "Yehuda Poliker",
+      "album": "הופעה חיה בקיסריה",
+      "track": "הילד שבך",
+      "uri": "spotify:track:7JFQGWNTxxzhYGhlguCPbY"
+    },
+    {
+      "artist": "Gidi Gov",
+      "album": "שלל שיריו",
+      "track": "סרנדה לך",
+      "uri": "spotify:track:3Bvlnrk8IpcFtGI44jpBzD"
+    },
+    {
+      "artist": "Kaveret",
+      "album": "כוורת בפארק",
+      "track": "לו היה לי לב זהב (ג'אם)",
+      "uri": "spotify:track:0xGsf7sUImTzKNcFktATeN"
+    }
+  ],
+  "albums": [
+    {
+      "artist": "Elton John",
+      "album": "Jewel Box",
+      "uri": "spotify:album:2xDDg5Fvxfnl08ZjGxPRTT"
+    },
+    {
+      "artist": "Billy Joel",
+      "album": "52nd Street",
+      "uri": "spotify:album:1HmCO8VK98AU6EXPOjGYyI"
+    },
+    {
+      "artist": "Foreigner",
+      "album": "Live in Concert",
+      "uri": "spotify:album:63RFu6O3lPLu74zJ4s5d7L"
+    },
+    {
+      "artist": "Elton John",
+      "album": "Elton 60 - Live At Madison Square Garden",
+      "uri": "spotify:album:4ZJNYovzuTG6cQufw6Oh4i"
+    },
+    {
+      "artist": "Kaveret",
+      "album": "כוורת בפארק",
+      "uri": "spotify:album:1jc29vDny4mn47as0vLWp8"
+    },
+    {
+      "artist": "Roger Waters",
+      "album": "The Wall - Live In Berlin",
+      "uri": "spotify:album:5VH40XjW17Z2y8EuyOajYR"
+    },
+    {
+      "artist": "Gidi Gov",
+      "album": "שלל שיריו",
+      "uri": "spotify:album:3CcgcRpWLM7YPGXO6WooQ1"
+    },
+    {
+      "artist": "Yehuda Poliker",
+      "album": "הופעה חיה בקיסריה",
+      "uri": "spotify:album:7Le8GvckRhlToE5HlMT5Fl"
+    },
+    {
+      "artist": "Foreigner",
+      "album": "Live at the Rainbow ‘78",
+      "uri": "spotify:album:06duRZuZTvHOLtJB5zq9ez"
+    },
+    {
+      "artist": "Tom Jones",
+      "album": "Live! At The Talk Of The Town",
+      "uri": "spotify:album:6uUWPN7CtJEDhAeTHyzLpR"
+    },
+    {
+      "artist": "Yanni",
+      "album": "Yanni - Live at the Acropolis - 25th Anniversary Deluxe Edition",
+      "uri": "spotify:album:4VwdhWts3jKVbbGwXkN36N"
+    },
+    {
+      "artist": "Joe Cocker",
+      "album": "Joe Cocker Live",
+      "uri": "spotify:album:6CpOgaWKkuIXrV3gqJmKMz"
+    },
+    {
+      "artist": "Elton John",
+      "album": "Elton 60 - Live At Madison Square Garden",
+      "uri": "spotify:album:1hBjd4MuIWjv6uwik1bA68"
+    },
+    {
+      "artist": "Billy Joel",
+      "album": "12 Gardens Live",
+      "uri": "spotify:album:58UpluZ9XMHS7xSyX8E6D2"
+    },
+    {
+      "artist": "Billy Joel",
+      "album": "Live At Shea Stadium",
+      "uri": "spotify:album:4zziqp3wOBkfWmxwlILVBZ"
+    },
+    {
+      "artist": "Billy Joel",
+      "album": "The Stranger (Legacy Edition)",
+      "uri": "spotify:album:1Mhn9VosyjtWn4dMPFlna6"
+    },
+    {
+      "artist": "Dire Straits",
+      "album": "Alchemy: Dire Straits Live",
+      "uri": "spotify:album:0S8mVxRM9uftA1C6dLp7ip"
+    },
+    {
+      "artist": "Mashina",
+      "album": "משינה בהופעה - 2003",
+      "uri": "spotify:album:6MWnihoo8pIvujVgbiQXt9"
+    }
+  ],
+  "shows": [
+    {
+      "name": "Ear Catcher- פודקאסט על פרסום, שיווק וקריאייטיב",
+      "publisher": "Meiran Pachman",
+      "uri": "spotify:show:6ThemgTLOoFBdMHzSvE597"
+    },
+    {
+      "name": "LowBattery בלי סוללה",
+      "publisher": "בלי סוללה - LowBattery",
+      "uri": "spotify:show:4MW0kMiWHPlWzr3JdeRzBm"
+    },
+    {
+      "name": "Startup for Startup ⚡ by monday.com",
+      "publisher": "Startup for Startup ⚡ by monday.com",
+      "uri": "spotify:show:2a7T3QqJuvryJHMfhrudTs"
+    },
+    {
+      "name": "חצי שעה של השראה עם ערן גפן",
+      "publisher": "חצי שעה של השראה עם ערן גפן",
+      "uri": "spotify:show:4a0shr14OhIe3VvSHgqLxw"
+    },
+    {
+      "name": "כסף והשקעות בגובה העיניים-עמית עשת",
+      "publisher": "הפודקסיה ",
+      "uri": "spotify:show:2smBZB9Ay8q7quXsAQES2z"
+    },
+    {
+      "name": "כסף טוב - שיחות עם יזמים ועסקים המשנים את העולם",
+      "publisher": "ערן שטרן",
+      "uri": "spotify:show:4Lb7tWlgiozZRGIMFn6l4q"
+    },
+    {
+      "name": "מה בתפקיד",
+      "publisher": "Simona Valsky & Avigail Levine",
+      "uri": "spotify:show:7hXSe8zpa7AdWnG3f6sCVG"
+    },
+    {
+      "name": "עוד פודקאסט לסטארטאפים || עם גיא קצוביץ'",
+      "publisher": "רשת עוד פודקאסט",
+      "uri": "spotify:show:0dTqS27ynvNmMnA5x4ObKQ"
+    },
+    {
+      "name": "עושים תוכנה Osim Tochna",
+      "publisher": "רשת עושים היסטוריה",
+      "uri": "spotify:show:6HD5lER0EM4sQfErIBawUJ"
+    },
+    {
+      "name": "קול המיינדפולנס - הדרך למוח שליו",
+      "publisher": "Nir Krause",
+      "uri": "spotify:show:6uBDPjILRRTxVs1s80AGy2"
+    },
+    {
+      "name": "תחוּשת בּטן  ",
+      "publisher": "Matan Hakimi",
+      "uri": "spotify:show:24K7UQgmnmncohAxoGIVxg"
+    }
+  ],
+  "episodes": [
+    {
+      "name": "ליצור תוכנות בלי לדעת קוד",
+      "show": "הייטק בפקקים",
+      "uri": "spotify:episode:7BKxsXEk2CIEqJfSEIG46p"
+    },
+    {
+      "name": "פרק 1 - מה זה מיינדפולנס?",
+      "show": "קול המיינדפולנס - הדרך למוח שליו",
+      "uri": "spotify:episode:35k7iBI5vkLHDNlOXYprCD"
+    },
+    {
+      "name": "94: איך לרפא את עצמנו בעזרת המיינד? רן כליף",
+      "show": "תחוּשת בּטן  ",
+      "uri": "spotify:episode:0A9NAWCruhaue0vgdi4cGr"
+    }
+  ],
+  "bannedTracks": [
+  ],
+  "artists": [
+    {
+      "name": "10cc",
+      "uri": "spotify:artist:6i6WlGzQtXtz7GcC5H5st5"
+    },
+    {
+      "name": "ABBA",
+      "uri": "spotify:artist:0LcJLqbBmaGUft1e9Mm8HV"
+    },
+    {
+      "name": "Air Supply",
+      "uri": "spotify:artist:4xXCRXOfQKQ2gjWxNhNzYW"
+    },
+    {
+      "name": "Alphaville",
+      "uri": "spotify:artist:0xliTEbFfy5HQHvsTknTkX"
+    },
+    {
+      "name": "Arik Sinai",
+      "uri": "spotify:artist:0DtZlRJO3t2PniCvBvu6Ny"
+    },
+    {
+      "name": "Bee Gees",
+      "uri": "spotify:artist:1LZEQNv7sE11VDY3SdxQeN"
+    },
+    {
+      "name": "Billy Joel",
+      "uri": "spotify:artist:6zFYqv1mOsgBRQbae3JJ9e"
+    },
+    {
+      "name": "Boston",
+      "uri": "spotify:artist:29kkCKKGXheHuoO829FxWK"
+    },
+    {
+      "name": "Bryan Adams",
+      "uri": "spotify:artist:3Z02hBLubJxuFJfhacLSDc"
+    },
+    {
+      "name": "David Bowie",
+      "uri": "spotify:artist:0oSGxfWSnnOXhD2fKuz2Gy"
+    },
+    {
+      "name": "Dire Straits",
+      "uri": "spotify:artist:0WwSkZ7LtFUFjGjMZBMt6T"
+    },
+    {
+      "name": "Eagles",
+      "uri": "spotify:artist:0ECwFtbIWEVNwjlrfc6xoL"
+    },
+    {
+      "name": "Electric Light Orchestra",
+      "uri": "spotify:artist:7jefIIksOi1EazgRTfW2Pk"
+    },
+    {
+      "name": "Elton John",
+      "uri": "spotify:artist:3PhoLpVuITZKcymswpck5b"
+    },
+    {
+      "name": "Eric Clapton",
+      "uri": "spotify:artist:6PAt558ZEZl0DmdXlnjMgD"
+    },
+    {
+      "name": "Foreigner",
+      "uri": "spotify:artist:6IRouO5mvvfcyxtPDKMYFN"
+    },
+    {
+      "name": "Gidi Gov",
+      "uri": "spotify:artist:0RNFCu4ChoQ1FDBKcGhnoi"
+    },
+    {
+      "name": "Idan Raichel",
+      "uri": "spotify:artist:5EBnQEKoaiAk37Q7cfGrE1"
+    },
+    {
+      "name": "Ivri Lider",
+      "uri": "spotify:artist:1L8QE7iUTf9330wcKxnieK"
+    },
+    {
+      "name": "Joe Cocker",
+      "uri": "spotify:artist:3pFCERyEiP5xeN2EsPXhjI"
+    },
+    {
+      "name": "Led Zeppelin",
+      "uri": "spotify:artist:36QJpDe2go2KgaRleHCDTp"
+    },
+    {
+      "name": "Mashina",
+      "uri": "spotify:artist:7iE2GZiF0xVFzlA2E93m3g"
+    },
+    {
+      "name": "Miri Mesika",
+      "uri": "spotify:artist:0GmwRPHVAU8zOdTOujIDUa"
+    },
+    {
+      "name": "Phil Collins",
+      "uri": "spotify:artist:4lxfqrEsLX6N1N4OCSkILp"
+    },
+    {
+      "name": "Pink Floyd",
+      "uri": "spotify:artist:0k17h0D3J5VfsdmQ1iZtE9"
+    },
+    {
+      "name": "Prince",
+      "uri": "spotify:artist:5a2EaR3hamoenG9rDuVn8j"
+    },
+    {
+      "name": "Queen",
+      "uri": "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+    },
+    {
+      "name": "Rod Stewart",
+      "uri": "spotify:artist:2y8Jo9CKhJvtfeKOsYzRdT"
+    },
+    {
+      "name": "Smokie",
+      "uri": "spotify:artist:5rIqOJspxDq89aBBCUda1X"
+    },
+    {
+      "name": "Supertramp",
+      "uri": "spotify:artist:3JsMj0DEzyWc0VDlHuy9Bx"
+    },
+    {
+      "name": "Svika Pick",
+      "uri": "spotify:artist:7hMpCrQFkZm9Sy1S9ZwBFe"
+    },
+    {
+      "name": "The Alan Parsons Project",
+      "uri": "spotify:artist:2m62cc253Xvd9qYQ8d2X3d"
+    },
+    {
+      "name": "Tom Jones",
+      "uri": "spotify:artist:1T0wRBO0CK0vK8ouUMqEl5"
+    },
+    {
+      "name": "Ultravox",
+      "uri": "spotify:artist:3iUjRVvYCsMfz7tuAQtBDI"
+    },
+    {
+      "name": "Yehuda Poliker",
+      "uri": "spotify:artist:4rQnQQusV2VVuGmDTLlybe"
+    }
+  ],
+  "bannedArtists": [
+  ],
+  "other": [
+  ]
+}

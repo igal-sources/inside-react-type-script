@@ -1,24 +1,19 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React, { lazy } from "react";
+// import TestComponent from './components/TableComponent';
+import HtmlTableComponent from "./components/HtmlTableComponent";
+import ClassComponent from "./components/ClassComponent";
+import { LoginFormUncontrolled } from "./components/LoginFormUncontrolled";
+import { LoginFormControlled } from "./components/login-form-controlled/LoginFormControlled";
+// import { ListWithAddItem } from "./components/list-with-add-item/ListWithAddItem";
+import "./App.css";
+
+const ListWithAddItem = lazy(() => import("./components/list-with-add-item/ListWithAddItem"));
 
 function App() {
+
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <ListWithAddItem />
     </div>
   );
 }
