@@ -1,0 +1,28 @@
+{
+  "items": [
+      {
+          "type": "item",
+          "firstName": "John",
+          "lastName": "Doe",
+          "orderIds": [2024, 2025]
+      }
+  ],
+  "orders": [
+      {
+          "orderId": 2024,
+          "productIds": [104, 105]
+      }
+  ],
+  "products": [
+      {
+          "productId": 104,
+          "name": "Wool Hat",
+          "price": 1500
+      },
+      {
+          "productId": 105,
+          "name": "Merino Sweater",
+          "price": 2990
+      }
+  ]
+}
