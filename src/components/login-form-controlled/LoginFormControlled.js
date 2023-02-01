@@ -11,13 +11,13 @@ const CustomButton = ({ handleClick }) => {
 
 export const LoginFormControlled = () => {
   const [form, setForm] = useState({ email: "", password: "" });
+  const [name, setName] = useState("");
 
-  
   const handleChange = (event) => {
     event.preventDefault();
 
     const { id, value } = event.target;
-    
+
     setForm({ ...form, [id]: value });
     console.log("form data: ", form);
   };
@@ -31,7 +31,7 @@ export const LoginFormControlled = () => {
   return (
     <div>
       <form onSubmit={handleSubmit}>
-        <div>
+        <div className="form-row">
           <label htmlFor="email">Email</label>
           <input id="email" type="email" value={form.email} onChange={handleChange} />
         </div>

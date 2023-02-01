@@ -1,4 +1,6 @@
 import React, { useState } from "react";
+import { ListItem } from "./list-item/ListItem";
+import { FormAddItem } from "./form-add-item/FormAddItem";
 import "./list-with-add-item.css";
 
 const InitialList = [
@@ -10,7 +12,6 @@ const InitialList = [
 ];
 
 export const ListWithAddItem = () => {
-  const [value, setValue] = useState("");
   const [list, setList] = useState(InitialList);
 
   const getMaxId = () => {
@@ -18,38 +19,23 @@ export const ListWithAddItem = () => {
     return maxId + 1;
   };
 
-  const handleChange = (event) => {
-    setValue(event.target.value);
+  const handleSubmit = (event, value) => {
+    event.preventDefault();
 
-    const res = list.map(item => {
-      return `id: ${item.id} - name: ${item.name}`;
-    })
-
-    console.log("res: ", res);
-  };
-
-  const handleSubmit = (event) => {
     if (value) {
-      setList([...list, { id: getMaxId(), name: value }]);
-
-      setValue("");
+      setList([...list, { id: getMaxId(), name: value }]);      
       console.log("list: ", list);
     }
-
-    event.preventDefault();
   };
 
   return (
     <div>
       <ul>
         {list.map((item) => (
-          <li key={item.id}>{item.name}</li>
+          <ListItem key={item.id} item={item} />
         ))}
       </ul>
-      <form onSubmit={handleSubmit}>
-        <input type="text" value={value} onChange={handleChange} />
-        <button type="submit">Add Item</button>
-      </form>
+      <FormAddItem onSubmit={handleSubmit} />
     </div>
   );
 };

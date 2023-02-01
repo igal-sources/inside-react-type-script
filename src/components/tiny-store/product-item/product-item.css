@@ -1,0 +1,31 @@
+.App-item {
+  margin: 15px;
+  outline: solid 3px black;
+  border-radius: 10px;
+  padding: 5px;
+}
+
+.Price-item {
+  font-weight: 600;
+  display: flex;
+  justify-content: center;
+}
+
+.Product-name-container {
+  display: flex;
+  flex-direction: horizontal;
+  justify-content: space-between;
+}
+
+.App-button {
+  margin: 10px;
+  background-color: white;
+  outline: solid 1px black;
+  border-radius: 5px;
+  width: 50px;
+  padding: 3px;
+}
+
+.App-button:hover {
+  background-color: rgb(236, 211, 211);
+}

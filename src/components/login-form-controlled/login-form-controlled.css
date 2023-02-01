@@ -2,3 +2,14 @@
   background: aqua;
   margin-top: 10px;
 }
+
+input {
+  width: 250px;
+  display: inline;
+  padding: 5px 20px;
+  margin: 8px 0;
+}
+
+label {
+  margin-right: 10px;
+}
